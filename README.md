@@ -1,25 +1,18 @@
-# PacketTrace-Analyzer
+# PacketTrace Analyzer 📡
 
-## 🔍 Overview
-PacketTrace-Analyzer is a cybersecurity project developed by **Oscar Opemba (CyberNomad)**.  
-It focuses on advanced threat detection, SOC automation, and network intelligence.
+## Overview
+PacketTrace is a starter Python project using Scapy for network packet capture and analysis. It prints summaries of captured packets, perfect for SOC labs or testing packet parsing.
 
-## ⚙️ Features
-- Designed for real-world SOC and Red/Blue Team workflows.
-- Built using modern technologies (Python, React, Bash, or Node.js).
-- Demonstrates automation, analytics, and secure coding practices.
+## Features
+- Scapy packet capture & summary demo
+- Extensible to parsing, filtering, and export
+- Designed for local lab use
 
-## 🧰 Tech Stack
-- Python / JavaScript / React / Flask
-- Docker (optional)
-- Elastic Stack (for analysis)
-- Wireshark / Scapy (for network parsing)
+## Tech Stack
+- Python 3
+- Scapy
 
-## 🚀 Getting Started
+## Getting Started
 ```bash
-git clone https://github.com/Oscar-Opemba/PacketTrace-Analyzer.git
-cd PacketTrace-Analyzer
-```
+sudo python3 src/analyzer.py
 
-## 📜 License
-MIT License © 2025 Oscar Opemba

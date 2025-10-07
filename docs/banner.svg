@@ -1,0 +1,8 @@
+
+**Banner SVG (docs/banner.svg)**
+
+```xml
+<svg width="400" height="100" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="100" fill="#111827"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="#22D3EE" font-family="monospace">PacketTrace Analyzer</text>
+</svg>
